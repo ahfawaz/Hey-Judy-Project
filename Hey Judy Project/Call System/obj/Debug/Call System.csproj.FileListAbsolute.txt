@@ -1,0 +1,10 @@
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\bin\Debug\Call System.exe.config
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\bin\Debug\Call System.exe
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\bin\Debug\Call System.pdb
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Debug\Call_System.Form1.resources
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Debug\Call_System.Admin_Override.resources
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Debug\Call_System.Next_Call_Setup.resources
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Debug\Call_System.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Debug\Call System.csproj.GenerateResource.Cache
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Debug\Call System.exe
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Debug\Call System.pdb

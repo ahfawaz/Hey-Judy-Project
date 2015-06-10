@@ -1,0 +1,14 @@
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\bin\Release\Call System.exe.config
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\bin\Release\Call System.exe
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\bin\Release\Call System.pdb
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Release\Call_System.Form1.resources
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Release\Call_System.Admin_Override.resources
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Release\Call_System.Next_Call_Setup.resources
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Release\Call_System.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Release\Call System.csproj.GenerateResource.Cache
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Release\Call System.exe
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Release\Call System.pdb
+C:\Users\Ahmad\Desktop\Hey Judy Project\Call System\obj\Release\Call System.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\GitHub\Hey Judy Project\Call System\bin\Release\Call System.exe.config
+C:\Users\Ahmad\Documents\GitHub\Hey Judy Project\Call System\obj\Release\Call System.exe
+C:\Users\Ahmad\Documents\GitHub\Hey Judy Project\Call System\obj\Release\Call System.pdb
